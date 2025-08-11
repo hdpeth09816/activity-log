@@ -3,5 +3,6 @@ activity log that may help me to track my activity
 
 
 Update 2025-08-11: progress commit repo
-- check pharos,monad,rise
+- check pharos,monad,rise (done)
+- check ritual,boundless
 
